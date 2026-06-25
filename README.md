@@ -51,3 +51,10 @@ notification-app-fe/
 │   └── main.jsx
 ├── package.json
 └── vite.config.js
+
+
+
+<img width="1713" height="681" alt="Screenshot 2026-06-25 154135" src="https://github.com/user-attachments/assets/71e97eae-874f-4552-af75-31f5a28b5897" />
+
+<img width="1667" height="557" alt="Screenshot 2026-06-25 154147" src="https://github.com/user-attachments/assets/ecf1184c-0379-4890-babb-c841cb32c50f" />
+
